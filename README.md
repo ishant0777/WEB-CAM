@@ -102,3 +102,4 @@ Face recognition integration
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 
+Developed By : ISHANT SOMANI 
