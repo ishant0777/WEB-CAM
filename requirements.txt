@@ -1,0 +1,14 @@
+flask==2.3.3
+streamlit==1.28.1
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+pillow==10.0.1
+requests==2.31.0
+numpy==1.24.3
+threading
+asyncio
+sqlite3
+bcrypt==4.0.1
+python-dotenv==1.0.0
+plotly==5.17.0
+pandas==2.1.1
